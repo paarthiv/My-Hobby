@@ -88,3 +88,9 @@ max-width: 450px;
     background-color:aqua;
     
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color:darkviolet;
+}
